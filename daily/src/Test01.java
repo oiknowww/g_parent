@@ -7,5 +7,6 @@ public class Test01 {
         System.out.println("第二次提交");
         System.out.println("3");
         System.out.println("4 - push");
+        System.out.println("5 - pull");
     }
 }
